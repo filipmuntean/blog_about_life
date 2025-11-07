@@ -7,7 +7,7 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  '/projects': {
+  'https://filipmuntean.vercel.app/projects': {
     name: 'portofolio',
   },
 }
