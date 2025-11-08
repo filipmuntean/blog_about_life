@@ -7,8 +7,8 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  '/projects': {
-    name: 'portofolio',
+  'https://filipmuntean.vercel.app/projects': {
+    name: 'portfolio',
   },
 }
 
